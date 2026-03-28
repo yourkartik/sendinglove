@@ -26,9 +26,9 @@ document.addEventListener('DOMContentLoaded', function() {
     yes.addEventListener('click', () => {
         const video= document.querySelector('.background-video');
         video.style.opacity = 1;
-        yes.textContent = "@YourKartik";
+        yes.textContent = "@KartikeyRahul";
         toggleVideoPlayback();
-        alert('I love you tooo meri jaan mera babyyy !💕😍💖');
+        alert('I love you tooo meri moongfali 🥜 😘 🙈');
        
     });
     // Add click event listener to the button
